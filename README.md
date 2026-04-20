@@ -9,8 +9,8 @@ This repository contains an extension project developed for the **Web Developmen
 The goal of this project is to apply modern web architecture concepts, focusing on server-side rendering (SSR), responsive design, and clean code practices.
 
 ### Authors
-* [José Otávio Ávila Alves Pires/[GitHub Link](https://github.com/Saigo0)]
 * [Ana Clara Vanzuita/[GitHub Link](https://github.com/claraacv)]
+* [José Otávio Ávila Alves Pires/[GitHub Link](https://github.com/Saigo0)]
 
 ## 💻 Tech Stack
 
