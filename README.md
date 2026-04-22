@@ -4,7 +4,7 @@ A modern, fast, and SEO-friendly web catalog built to browse and display automot
 
 ## 🎓 Academic Context
 
-This repository contains an extension project developed for the **Web Development** course within the **Software Engineering** program at **Udesc** (Universidade do Estado de Santa Catarina). 
+This repository contains an extension project developed for the **Project Management** course within the **Software Engineering** program at **Udesc** (Universidade do Estado de Santa Catarina). 
 
 The goal of this project is to apply modern web architecture concepts, focusing on server-side rendering (SSR), responsive design, and clean code practices.
 
